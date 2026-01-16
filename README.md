@@ -30,3 +30,5 @@
 - 📫 Email: ozancanozkaya@gmail.com
 
 ⭐ I build things that are fast, maintainable, and actually used.
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
