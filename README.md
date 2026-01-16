@@ -26,7 +26,7 @@
 ---
 
 ## 📈 GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozanozkayatr&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozanozkayatr&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&cache_seconds=1800)
 
 ---
 
