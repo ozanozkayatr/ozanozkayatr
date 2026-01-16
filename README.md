@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ozan 👋
 
-<!--
-**ozanozkayatr/ozanozkayatr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-stack software engineer building scalable products with **Python (FastAPI)**, **Node.js**, **Next.js**, and **React**.  
+🤖 Focused on **AI/LLM integrations**, **search (Elasticsearch, vector search)**, and performance-driven architectures.  
+🌍 Based in Turkey, open to U.S.-based remote/hybrid roles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+- Design and build production-grade full-stack applications
+- Integrate AI/LLM agents into real products (NLP, automation)
+- Create fast, searchable systems with Elasticsearch & vector search
+- Optimize performance, cost, and developer experience
+
+---
+
+## 🛠 Tech Stack
+**Backend:** Python, FastAPI, Flask, Node.js  
+**Frontend:** React, Next.js, TypeScript, Tailwind  
+**Databases:** PostgreSQL, MongoDB  
+**Search & AI:** Elasticsearch, Vector Search, OpenAI / LLMs  
+**Cloud & DevOps:** Azure, Docker  
+**Testing:** Jest, Testing Library  
+**Version Control:** Git
+
+---
+
+## 📈 GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozanozkayatr&show_icons=true&hide_title=true)
+
+---
+
+## 🌎 Contact
+- 💼 LinkedIn: https://linkedin.com/in/ozan-ozkaya  
+- 📫 Email: ozancanozkaya@gmail.com
+
+⭐ I build things that are fast, maintainable, and actually used.
