@@ -1,12 +1,12 @@
 # Hi, I'm Ozan 👋
 
-🚀 Full-stack software engineer building scalable products with **Python (FastAPI)**, **Node.js**, **Next.js**, and **React**.  
-🤖 Focused on **AI/LLM integrations**, **search (Elasticsearch, vector search)**, and performance-driven architectures.  
-🌍 Based in Turkey, open to U.S.-based remote/hybrid roles.
+ Full-stack software engineer building scalable products with **Python (FastAPI)**, **Node.js**, **Next.js**, and **React**.  
+ Focused on **AI/LLM integrations**, **search (Elasticsearch, vector search)**, and performance-driven architectures.  
+ Based in Turkey, open to U.S.-based remote/hybrid roles.
 
 ---
 
-## 🧠 What I Do
+##  What I Do
 - Design and build production-grade full-stack applications
 - Integrate AI/LLM agents into real products (NLP, automation)
 - Create fast, searchable systems with Elasticsearch & vector search
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 **Backend:** Python, FastAPI, Flask, Node.js  
 **Frontend:** React, Next.js, TypeScript, Tailwind  
 **Databases:** PostgreSQL, MongoDB  
@@ -25,8 +25,8 @@
 
 ---
 
-## 🌎 Contact
-- 💼 LinkedIn: https://linkedin.com/in/ozan-ozkaya  
-- 📫 Email: ozancanozkaya@gmail.com
+##  Contact
+-  LinkedIn: https://linkedin.com/in/ozan-ozkaya  
+-  Email: ozancanozkaya@gmail.com
 
 ![snake gif](https://github.com/ozanozkayatr/ozanozkayatr/blob/output/github-contribution-grid-snake.gif)
