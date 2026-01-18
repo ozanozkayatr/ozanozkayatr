@@ -29,6 +29,4 @@
 - 💼 LinkedIn: https://linkedin.com/in/ozan-ozkaya  
 - 📫 Email: ozancanozkaya@gmail.com
 
-⭐ I build things that are fast, maintainable, and actually used.
-
 ![snake gif](https://github.com/ozanozkayatr/ozanozkayatr/blob/output/github-contribution-grid-snake.gif)
