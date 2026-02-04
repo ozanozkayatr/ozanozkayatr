@@ -20,7 +20,7 @@
 **Databases:** PostgreSQL, MongoDB  
 **Search & AI:** Elasticsearch, Vector Search, OpenAI / LLMs  
 **Cloud & DevOps:** Azure, Docker  
-**Testing:** Jest, Testing Library  
+**Testing:** Jest, Playwright
 **Version Control:** Git
 
 ---
