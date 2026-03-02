@@ -2,7 +2,6 @@
 
  Full-stack software engineer building scalable products with **Python (FastAPI)**, **Node.js**, **Next.js**, and **React**.  
  Focused on **AI/LLM integrations**, **search (Elasticsearch, vector search)**, and performance-driven architectures.  
- Based in Turkey, open to U.S.-based remote/hybrid roles.
 
 ---
 
