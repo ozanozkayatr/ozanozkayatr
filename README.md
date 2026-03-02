@@ -18,7 +18,7 @@
 **Frontend:** React, Next.js, TypeScript, Tailwind  
 **Databases:** PostgreSQL, MongoDB  
 **Search & AI:** Elasticsearch, Vector Search, OpenAI / LLMs  
-**Cloud & DevOps:** Azure, Docker  
+**Cloud & DevOps:** Azure, AWS, Docker  
 **Testing:** Jest, Playwright  
 **Version Control:** Git
 
